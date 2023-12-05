@@ -1,0 +1,5388 @@
+{
+    "type": "FeatureCollection",
+    "name": "aree_di_saggio_TEBAKA_punti_28042022_v02_geom",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 1,
+                "Id_name": "Casillo_cluster_0_idPlot_1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.117562814594123,
+                    41.03264440053801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 2,
+                "Id_name": "Casillo_cluster_0_idPlot_2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.120475405797656,
+                    41.036039137645886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 3,
+                "Id_name": "Casillo_cluster_0_idPlot_3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12466917105193,
+                    41.03779987333998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 4,
+                "Id_name": "Casillo_cluster_0_idPlot_4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11920204086708,
+                    41.03109714129645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 5,
+                "Id_name": "Casillo_cluster_0_idPlot_5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.117327980496768,
+                    41.03282683655429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 6,
+                "Id_name": "Casillo_cluster_0_idPlot_6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11815141815579,
+                    41.032278373146845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 7,
+                "Id_name": "Casillo_cluster_0_idPlot_7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.125516434384824,
+                    41.03166620139324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 8,
+                "Id_name": "Casillo_cluster_0_idPlot_8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1183862480266,
+                    41.032095935489664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 9,
+                "Id_name": "Casillo_cluster_0_idPlot_9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.121442259919373,
+                    41.03693052697882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 10,
+                "Id_name": "Casillo_cluster_0_idPlot_10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11753692101755,
+                    41.0311133003107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 11,
+                "Id_name": "Casillo_cluster_0_idPlot_11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12586250669641,
+                    41.03103226473395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 12,
+                "Id_name": "Casillo_cluster_0_idPlot_12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.119096830851852,
+                    41.03190887840932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 13,
+                "Id_name": "Casillo_cluster_0_idPlot_13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.121936062879303,
+                    41.03098047753504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 14,
+                "Id_name": "Casillo_cluster_0_idPlot_14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.124185712759573,
+                    41.03735419371417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 15,
+                "Id_name": "Casillo_cluster_0_idPlot_15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11813617857351,
+                    41.03137772612893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 16,
+                "Id_name": "Casillo_cluster_0_idPlot_16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.12357871874563,
+                    41.03663947836254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 17,
+                "Id_name": "Casillo_cluster_0_idPlot_17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.11980435714192,
+                    41.031541687685504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 18,
+                "Id_name": "Casillo_cluster_0_idPlot_18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.140174439433753,
+                    41.04007964857954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 19,
+                "Id_name": "Casillo_cluster_0_idPlot_19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.121458787344636,
+                    41.03089504351122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 20,
+                "Id_name": "Casillo_cluster_2_idPlot_20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149383760096203,
+                    41.036024675240526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 21,
+                "Id_name": "Casillo_cluster_2_idPlot_21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.145666798954142,
+                    41.034350180628216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 22,
+                "Id_name": "Casillo_cluster_2_idPlot_22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14149605030056,
+                    41.03394117187111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 23,
+                "Id_name": "Casillo_cluster_2_idPlot_23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.142805961714476,
+                    41.03401826873746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 24,
+                "Id_name": "Casillo_cluster_2_idPlot_24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14697672226549,
+                    41.03442722990601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 25,
+                "Id_name": "Casillo_cluster_2_idPlot_25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.145904682639937,
+                    41.03434781546249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 26,
+                "Id_name": "Casillo_cluster_2_idPlot_26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15010056370561,
+                    41.03619768229501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 27,
+                "Id_name": "Casillo_cluster_2_idPlot_27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.15069372001429,
+                    41.036101681745826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 28,
+                "Id_name": "Casillo_cluster_2_idPlot_28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.140178371153553,
+                    41.03341374012736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 29,
+                "Id_name": "Casillo_cluster_2_idPlot_29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149742161443168,
+                    41.036111179331975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 30,
+                "Id_name": "Casillo_cluster_2_idPlot_30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14233019617216,
+                    41.03402298575589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 31,
+                "Id_name": "Casillo_cluster_2_idPlot_31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141259723289235,
+                    41.03403359186841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 32,
+                "Id_name": "Casillo_cluster_2_idPlot_32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14626307053325,
+                    41.034434330579714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 33,
+                "Id_name": "Casillo_cluster_2_idPlot_33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.140661906359004,
+                    41.03385935191976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 34,
+                "Id_name": "Casillo_cluster_2_idPlot_34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.138492031895435,
+                    41.03910541008549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 35,
+                "Id_name": "Casillo_cluster_2_idPlot_35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149158402394455,
+                    41.03674755697539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 36,
+                "Id_name": "Casillo_cluster_2_idPlot_36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.148048764240915,
+                    41.03450663434074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 37,
+                "Id_name": "Casillo_cluster_2_idPlot_37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14844316062973,
+                    41.03666460780487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 38,
+                "Id_name": "Casillo_cluster_2_idPlot_38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14615037764657,
+                    41.03479576874094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 39,
+                "Id_name": "Casillo_cluster_1_idPlot_39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.138003817738472,
+                    41.038389597955415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 40,
+                "Id_name": "Casillo_cluster_1_idPlot_40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13788486829607,
+                    41.03839077254047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 41,
+                "Id_name": "Casillo_cluster_1_idPlot_41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.150313365419827,
+                    41.03475428963705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 42,
+                "Id_name": "Casillo_cluster_1_idPlot_42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14174327031622,
+                    41.03447919892081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 43,
+                "Id_name": "Casillo_cluster_1_idPlot_43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14173548908551,
+                    41.034028879267794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 44,
+                "Id_name": "Casillo_cluster_1_idPlot_44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141976485060603,
+                    41.0342066500819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 45,
+                "Id_name": "Casillo_cluster_1_idPlot_45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141740157802776,
+                    41.03429907106399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 46,
+                "Id_name": "Casillo_cluster_1_idPlot_46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14119211446579,
+                    41.03700687935985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 47,
+                "Id_name": "Casillo_cluster_1_idPlot_47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.137886419518292,
+                    41.038480836526304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 48,
+                "Id_name": "Casillo_cluster_1_idPlot_48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.13680502456421,
+                    41.037860954137194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 49,
+                "Id_name": "Casillo_cluster_1_idPlot_49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.139966905099808,
+                    41.03494718122245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 50,
+                "Id_name": "Casillo_cluster_1_idPlot_50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.148064413184574,
+                    41.035407271547754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 51,
+                "Id_name": "Casillo_cluster_1_idPlot_51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141298615001507,
+                    41.03628519013986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 52,
+                "Id_name": "Casillo_cluster_1_idPlot_52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.137161870142826,
+                    41.03785743339432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 53,
+                "Id_name": "Casillo_cluster_1_idPlot_53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14118278068691,
+                    41.03646649590579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 54,
+                "Id_name": "Casillo_cluster_1_idPlot_54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.14034238731272,
+                    41.03602441835978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 55,
+                "Id_name": "Casillo_cluster_1_idPlot_55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141187447544628,
+                    41.0367366876394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 56,
+                "Id_name": "Casillo_cluster_1_idPlot_56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149368092830954,
+                    41.035124038547046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 57,
+                "Id_name": "Casillo_cluster_1_idPlot_57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.148051893972912,
+                    41.03468676179383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Casillo",
+                "Id_plot": 58,
+                "Id_name": "Casillo_cluster_1_idPlot_58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149114543325098,
+                    41.034225773983295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 59,
+                "Id_name": "Casillo_cluster_0_idPlot_59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.118488418240208,
+                    41.03110406953325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Casillo",
+                "Id_plot": 60,
+                "Id_name": "Casillo_cluster_2_idPlot_60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.149512106474,
+                    41.036563870767196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 61,
+                "Id_name": "Tormaresca_cluster_1_idPlot_61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0473081093979,
+                    40.5416585175953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 62,
+                "Id_name": "Tormaresca_cluster_1_idPlot_62"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.056060383752303,
+                    40.54719158270544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 63,
+                "Id_name": "Tormaresca_cluster_1_idPlot_63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03648357327632,
+                    40.545096203914646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 64,
+                "Id_name": "Tormaresca_cluster_1_idPlot_64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03956182936942,
+                    40.54267337652493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 65,
+                "Id_name": "Tormaresca_cluster_1_idPlot_65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04982279503187,
+                    40.550238781071535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 66,
+                "Id_name": "Tormaresca_cluster_1_idPlot_66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.051335539838263,
+                    40.549748454423145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 67,
+                "Id_name": "Tormaresca_cluster_1_idPlot_67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042437069713902,
+                    40.546200416850446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 68,
+                "Id_name": "Tormaresca_cluster_1_idPlot_68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03913929584236,
+                    40.5516013981263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 69,
+                "Id_name": "Tormaresca_cluster_1_idPlot_69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04880074488114,
+                    40.543330426427886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 70,
+                "Id_name": "Tormaresca_cluster_1_idPlot_70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035100935514308,
+                    40.54585312410397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 71,
+                "Id_name": "Tormaresca_cluster_1_idPlot_71"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.039371105753677,
+                    40.5515052249122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 72,
+                "Id_name": "Tormaresca_cluster_1_idPlot_72"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.039265378873136,
+                    40.551778217605325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 73,
+                "Id_name": "Tormaresca_cluster_1_idPlot_73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.050061685080067,
+                    40.5450985067227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 74,
+                "Id_name": "Tormaresca_cluster_1_idPlot_74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040659961033924,
+                    40.546067103239274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 75,
+                "Id_name": "Tormaresca_cluster_1_idPlot_75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03582071847063,
+                    40.54610440549796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 76,
+                "Id_name": "Tormaresca_cluster_1_idPlot_76"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.049857985604614,
+                    40.54321242827191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 77,
+                "Id_name": "Tormaresca_cluster_1_idPlot_77"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.046419337824936,
+                    40.55330095006952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 78,
+                "Id_name": "Tormaresca_cluster_1_idPlot_78"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03952161860494,
+                    40.55222181844679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 79,
+                "Id_name": "Tormaresca_cluster_1_idPlot_79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.039460185177763,
+                    40.54303633175469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 80,
+                "Id_name": "Tormaresca_cluster_1_idPlot_80"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035153829598137,
+                    40.54441061757178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 81,
+                "Id_name": "Tormaresca_cluster_1_idPlot_81"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03639817699667,
+                    40.54843102916357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 82,
+                "Id_name": "Tormaresca_cluster_1_idPlot_82"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04296966902405,
+                    40.544925403059956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 83,
+                "Id_name": "Tormaresca_cluster_1_idPlot_83"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05052114114669,
+                    40.544816156942424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 84,
+                "Id_name": "Tormaresca_cluster_1_idPlot_84"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.039834723522294,
+                    40.55131287715403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 85,
+                "Id_name": "Tormaresca_cluster_1_idPlot_85"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040212667973098,
+                    40.54661930273416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 86,
+                "Id_name": "Tormaresca_cluster_1_idPlot_86"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040224883292247,
+                    40.54688918996058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 87,
+                "Id_name": "Tormaresca_cluster_1_idPlot_87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.037898726176753,
+                    40.545058969278124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 88,
+                "Id_name": "Tormaresca_cluster_1_idPlot_88"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042957443533837,
+                    40.544655516430154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 89,
+                "Id_name": "Tormaresca_cluster_1_idPlot_89"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.037028503175843,
+                    40.546703122744255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 90,
+                "Id_name": "Tormaresca_cluster_1_idPlot_90"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03987922914234,
+                    40.547078432577486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 91,
+                "Id_name": "Tormaresca_cluster_2_idPlot_91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05176989425165,
+                    40.54631433105447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 92,
+                "Id_name": "Tormaresca_cluster_2_idPlot_92"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.034905846435894,
+                    40.54153490528386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 93,
+                "Id_name": "Tormaresca_cluster_2_idPlot_93"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040484870636444,
+                    40.5421987191729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 94,
+                "Id_name": "Tormaresca_cluster_2_idPlot_94"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03098212071357,
+                    40.5383054130415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 95,
+                "Id_name": "Tormaresca_cluster_2_idPlot_95"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040090523874074,
+                    40.543920429606715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 96,
+                "Id_name": "Tormaresca_cluster_2_idPlot_96"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.036194844030664,
+                    40.546544914063716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 97,
+                "Id_name": "Tormaresca_cluster_2_idPlot_97"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.045833703715378,
+                    40.55340647451838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 98,
+                "Id_name": "Tormaresca_cluster_2_idPlot_98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.039944099993605,
+                    40.54329379796206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 99,
+                "Id_name": "Tormaresca_cluster_2_idPlot_99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05147623995569,
+                    40.542449104520045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 100,
+                "Id_name": "Tormaresca_cluster_2_idPlot_100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.036280253814702,
+                    40.54321008774965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 101,
+                "Id_name": "Tormaresca_cluster_2_idPlot_101"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.045939405658718,
+                    40.55313347674222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 102,
+                "Id_name": "Tormaresca_cluster_2_idPlot_102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.041107621494913,
+                    40.55073893054003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 103,
+                "Id_name": "Tormaresca_cluster_2_idPlot_103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.028135860798564,
+                    40.53801983123386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 104,
+                "Id_name": "Tormaresca_cluster_2_idPlot_104"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.047113067783076,
+                    40.542564362409635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 105,
+                "Id_name": "Tormaresca_cluster_2_idPlot_105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05327026930989,
+                    40.545554098302425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 106,
+                "Id_name": "Tormaresca_cluster_2_idPlot_106"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04004574184623,
+                    40.542930842400054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 107,
+                "Id_name": "Tormaresca_cluster_2_idPlot_107"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04446604369685,
+                    40.5440753200454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 108,
+                "Id_name": "Tormaresca_cluster_2_idPlot_108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.040806756049662,
+                    40.55191776149352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 109,
+                "Id_name": "Tormaresca_cluster_2_idPlot_109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03715858938495,
+                    40.54174586553031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 110,
+                "Id_name": "Tormaresca_cluster_2_idPlot_110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.051598249559838,
+                    40.54253594868157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 111,
+                "Id_name": "Tormaresca_cluster_2_idPlot_111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.045283717591158,
+                    40.54648563073825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 112,
+                "Id_name": "Tormaresca_cluster_2_idPlot_112"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.044494583643196,
+                    40.54470505467023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 113,
+                "Id_name": "Tormaresca_cluster_2_idPlot_113"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.047131076395498,
+                    40.55337223269551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 114,
+                "Id_name": "Tormaresca_cluster_2_idPlot_114"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.038878787876115,
+                    40.54584379945872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 115,
+                "Id_name": "Tormaresca_cluster_2_idPlot_115"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05124856529465,
+                    40.54263526198432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 116,
+                "Id_name": "Tormaresca_cluster_2_idPlot_116"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04700088814719,
+                    40.553105460970734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 117,
+                "Id_name": "Tormaresca_cluster_0_idPlot_117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04242532495683,
+                    40.55115455443238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 118,
+                "Id_name": "Tormaresca_cluster_0_idPlot_118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035755700536253,
+                    40.54205297717957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 119,
+                "Id_name": "Tormaresca_cluster_0_idPlot_119"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035601192281753,
+                    40.54124641249802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 120,
+                "Id_name": "Tormaresca_cluster_0_idPlot_120"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042710113307887,
+                    40.55222788247689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 121,
+                "Id_name": "Tormaresca_cluster_0_idPlot_121"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035719115136015,
+                    40.54124331141477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 122,
+                "Id_name": "Tormaresca_cluster_0_idPlot_122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030884492956304,
+                    40.53875832569057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 123,
+                "Id_name": "Tormaresca_cluster_0_idPlot_123"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0425595666515,
+                    40.551511294330815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 124,
+                "Id_name": "Tormaresca_cluster_0_idPlot_124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02885958994309,
+                    40.53836112382225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 125,
+                "Id_name": "Tormaresca_cluster_0_idPlot_125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042059281814034,
+                    40.55089399316093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 126,
+                "Id_name": "Tormaresca_cluster_0_idPlot_126"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.031246367179723,
+                    40.5389289635525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 127,
+                "Id_name": "Tormaresca_cluster_0_idPlot_127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042470155007695,
+                    40.552144138039004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 128,
+                "Id_name": "Tormaresca_cluster_0_idPlot_128"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04206335665396,
+                    40.55098395535039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 129,
+                "Id_name": "Tormaresca_cluster_0_idPlot_129"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04268565827803,
+                    40.551688109754984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 130,
+                "Id_name": "Tormaresca_cluster_0_idPlot_130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.042673431011345,
+                    40.55141822337049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 131,
+                "Id_name": "Tormaresca_cluster_0_idPlot_131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035625581439643,
+                    40.54178618974902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 132,
+                "Id_name": "Tormaresca_cluster_0_idPlot_132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030286782979267,
+                    40.53859387772958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 133,
+                "Id_name": "Tormaresca_cluster_0_idPlot_133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02895723105243,
+                    40.537908212390214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 134,
+                "Id_name": "Tormaresca_cluster_0_idPlot_134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05040430839448,
+                    40.550043276040874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 135,
+                "Id_name": "Tormaresca_cluster_0_idPlot_135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.028721395543695,
+                    40.5379144002166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 136,
+                "Id_name": "Tormaresca_cluster_0_idPlot_136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05004641290894,
+                    40.54996266402204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 137,
+                "Id_name": "Tormaresca_cluster_0_idPlot_137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.050282286006688,
+                    40.54995643115104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 138,
+                "Id_name": "Tormaresca_cluster_0_idPlot_138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.04256771786623,
+                    40.551691218605036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 139,
+                "Id_name": "Tormaresca_cluster_0_idPlot_139"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0310105285914,
+                    40.53893515617909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 140,
+                "Id_name": "Tormaresca_cluster_0_idPlot_140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.028623752824842,
+                    40.53836731150604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 141,
+                "Id_name": "Tormaresca_cluster_0_idPlot_141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03028730877888,
+                    40.533369809663185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 142,
+                "Id_name": "Tormaresca_cluster_0_idPlot_142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030632423738428,
+                    40.53840466421486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 143,
+                "Id_name": "Tormaresca_cluster_0_idPlot_143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03053073582537,
+                    40.53876761331022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 144,
+                "Id_name": "Tormaresca_cluster_0_idPlot_144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.035491398740472,
+                    40.54142943923802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 145,
+                "Id_name": "Tormaresca_cluster_0_idPlot_145"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.028745726617878,
+                    40.538454181220516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Tormaresca",
+                "Id_plot": 146,
+                "Id_name": "Tormaresca_cluster_0_idPlot_146"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.043372916955114,
+                    40.55121964377547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Tormaresca",
+                "Id_plot": 147,
+                "Id_name": "Tormaresca_cluster_1_idPlot_147"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03534090811089,
+                    40.54332486149057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 148,
+                "Id_name": "Tormaresca_cluster_2_idPlot_148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.051509513485332,
+                    40.5457807976632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 149,
+                "Id_name": "Tormaresca_cluster_2_idPlot_149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.052062371613435,
+                    40.544955555500884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Tormaresca",
+                "Id_plot": 150,
+                "Id_name": "Tormaresca_cluster_2_idPlot_150"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05161926878866,
+                    40.54559775711711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 151,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_151"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18554427643401,
+                    41.23467412257334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 152,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190746200350443,
+                    41.238583788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 153,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20364513365105,
+                    41.232684790281105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 154,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192215559118512,
+                    41.24064033064141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 155,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.183702743753376,
+                    41.23181063288822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 156,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_156"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200124810669163,
+                    41.24244975094573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 157,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_157"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.199255019253624,
+                    41.24056721894826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 158,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190509215898487,
+                    41.238676314839076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 159,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_159"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.204291215291484,
+                    41.23538031624422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 160,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_160"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18541195642246,
+                    41.23395487582604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 161,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_161"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200968267847614,
+                    41.24289133526474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 162,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.184818702809864,
+                    41.234141134735374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 163,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191105763833338,
+                    41.23867014469853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 164,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200969916873095,
+                    41.24298139401465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 165,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18578939237907,
+                    41.23503190287081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 166,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200830814042714,
+                    41.2419019334735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 167,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_167"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.183245042926696,
+                    41.23289625186811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 168,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_168"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18578125380542,
+                    41.23458160599219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 169,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.204302787505778,
+                    41.23601072751866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 170,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.20094848012554,
+                    41.24181063015116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 171,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_171"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.200723039483805,
+                    41.242533589291256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 172,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.184691270361423,
+                    41.233692065260584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 173,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_173"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.203658350722222,
+                    41.23340526081263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 174,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.185528003040194,
+                    41.23377352864339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 175,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_175"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.204183483345215,
+                    41.23601197540248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 176,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_176"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19100444053908,
+                    41.23966202948153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 177,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.186377765536186,
+                    41.23457546084272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 178,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_178"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191868936879793,
+                    41.23469889887444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 179,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197157671889723,
+                    41.236805853633676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 180,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193307116264744,
+                    41.23504430612015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 181,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_181"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189149466930214,
+                    41.23607816075678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 182,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.188173823557385,
+                    41.234917244053946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 183,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196920703159638,
+                    41.236898393489575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 184,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189303057441567,
+                    41.23796817220763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 185,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18938807679536,
+                    41.23607569601554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 186,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191988239190344,
+                    41.2346976637816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 187,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_187"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193589659758025,
+                    41.23089787516656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 188,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_188"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194344774130883,
+                    41.23305187199489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 189,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194112731887273,
+                    41.23341458337176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 190,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189839163192875,
+                    41.234629817300224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 191,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_191"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197040009249612,
+                    41.23689715310895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 192,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18201473330718,
+                    41.230837136704885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 193,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_193"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190586028817158,
+                    41.236333542485845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 194,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_194"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18705447357969,
+                    41.232406658080144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 195,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_195"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189778737333853,
+                    41.231297624190745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 196,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196319245730518,
+                    41.23663441653941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 197,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_197"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189152731754934,
+                    41.23625827924572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 198,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_198"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193831527473307,
+                    41.231075519822376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 199,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.182498408057175,
+                    41.231192474973696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 200,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.188212969671664,
+                    41.23707866673647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 201,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.186988941378342,
+                    41.235379846610485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 202,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.186694949655525,
+                    41.23232028810161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 203,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.187417258076437,
+                    41.232673145636696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 204,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19000257083503,
+                    41.2370601833173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 205,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.186935175220533,
+                    41.23240788800564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 206,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_206"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191878753362914,
+                    41.235239253919346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 207,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_207"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192601121405808,
+                    41.23559207794251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 208,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_208"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18920510732402,
+                    41.23256461689278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 209,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19538729223253,
+                    41.231329606048874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 210,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_210"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19538893292906,
+                    41.23141966516408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 211,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_211"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19296067070098,
+                    41.23567842908026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 212,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_212"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190796850339726,
+                    41.234800068361864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 213,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19150448769403,
+                    41.234342366638856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 214,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_214"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193799076385982,
+                    41.23584989094753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 215,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_215"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190157861898093,
+                    41.23246469591593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 216,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_216"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194671515882813,
+                    41.23133703538825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 217,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_217"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18923938683132,
+                    41.2344558618535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 218,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_218"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194906827967568,
+                    41.23115444117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 219,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18923775439975,
+                    41.234365802584314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 220,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189352158477536,
+                    41.23409439242098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 221,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191388456771058,
+                    41.23452371961887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 222,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19151757223192,
+                    41.23506284016063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 223,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194547301190017,
+                    41.23106809574269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 224,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194158628590305,
+                    41.23593623829949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 225,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190911248645214,
+                    41.23452865674614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 226,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19439723750442,
+                    41.235933763185265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 227,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_227"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19020360508676,
+                    41.234986354891035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 228,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191153122860587,
+                    41.234706306836344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 229,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.191633603713075,
+                    41.234881487059106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 230,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_230"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.189804866189927,
+                    41.232738572808785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 231,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19491174807112,
+                    41.23142461856684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 232,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19479081195971,
+                    41.23133579747392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 233,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195267996192854,
+                    41.23133084458101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 234,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194279572490597,
+                    41.23602505988356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 235,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18625357818523,
+                    41.234306512021455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 236,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.185519866620226,
+                    41.23332323162343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 237,
+                "Id_name": "Zeuli_Olivo_cluster_1_idPlot_237"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.183460900204103,
+                    41.231632966642344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 238,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_238"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.18249516207743,
+                    41.23101235589186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 239,
+                "Id_name": "Zeuli_Olivo_cluster_2_idPlot_239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19020197130136,
+                    41.23489629566173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Olivo",
+                "Id_plot": 240,
+                "Id_name": "Zeuli_Olivo_cluster_0_idPlot_240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.190143159964695,
+                    41.231654162429756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 241,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_241"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194969602508326,
+                    41.241152234522936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 242,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19401673033415,
+                    41.241252196783655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 243,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194485786725895,
+                    41.2407969511628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 244,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_244"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19707287639004,
+                    41.23869833229996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 245,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_245"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193555861383192,
+                    41.24215773559539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 246,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_246"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197452176062505,
+                    41.2398653761891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 247,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_247"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19707451982537,
+                    41.238788391244114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 248,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_248"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197480125475614,
+                    41.241396377516445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 249,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_249"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195819576517586,
+                    41.24195409316057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 250,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19733286459285,
+                    41.239866617069474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 251,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19414752148221,
+                    41.24188137227922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 252,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_252"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194739176550314,
+                    41.24160500597662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 253,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196955210297816,
+                    41.238789631706794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 254,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_254"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193791214731547,
+                    41.24197514342671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 255,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_255"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196641639562937,
+                    41.241224943712595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 256,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19640958229238,
+                    41.241587659433776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 257,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_257"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19696835673935,
+                    41.2395101032384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 258,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_258"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19484044559044,
+                    41.2406131189593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 259,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_259"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196030290399527,
+                    41.24042061233549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 260,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_260"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19546655473377,
+                    41.242227987342744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 261,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196997937978047,
+                    41.24113116384118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 262,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19521971759902,
+                    41.241780170211484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 263,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_263"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197604372685404,
+                    41.2416653130951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 264,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195794948869043,
+                    41.24060320897016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 265,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19689505761498,
+                    41.2420329933393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 266,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196608781342842,
+                    41.23942376503064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 267,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_267"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197718753958934,
+                    41.241393895251996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 268,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195700261177986,
+                    41.241955332400366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 269,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194222565860855,
+                    41.23944854146089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 270,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19398230491771,
+                    41.23936095734947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 271,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_271"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192990148939376,
+                    41.23729949313559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 272,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_272"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1930947150364,
+                    41.23648772488445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 273,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193093077196522,
+                    41.23639766577342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 274,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19263877700589,
+                    41.23766343778682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 275,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192501461441136,
+                    41.23667402331965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 276,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_276"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192262849670197,
+                    41.236676494541584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 277,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19411964936635,
+                    41.24035036921843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 278,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194805997202252,
+                    41.23872187988264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 279,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194802716574603,
+                    41.2385417618416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 280,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_280"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196338953602687,
+                    41.237715124458525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 281,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_281"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19411800989709,
+                    41.24026031020166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 282,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196582496914072,
+                    41.237982821662534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 283,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_283"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19492366621898,
+                    41.23863058263262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 284,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192977047202795,
+                    41.236579020280786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 285,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194091779400836,
+                    41.23881936573371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 286,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192519469330975,
+                    41.23766467362598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 287,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_287"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192972134174212,
+                    41.23630884293604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 288,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19409341875105,
+                    41.23890942477396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 289,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192630590671513,
+                    41.237213142234495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 290,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_290"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196361947476788,
+                    41.23897595009713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 291,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196232783862936,
+                    41.23843683599274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 292,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193102904347285,
+                    41.236938020417554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 293,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_293"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194240601496166,
+                    41.240439190667104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 294,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196481257369033,
+                    41.2389747102446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 295,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192620767315464,
+                    41.2366727875233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 296,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192280853958856,
+                    41.23766714493355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 297,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_297"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1947846736548,
+                    41.237551112510964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 1,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 298,
+                "Id_name": "Zeuli_Vite_cluster_1_idPlot_298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.192865929225633,
+                    41.23703055200871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 299,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_299"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196998929519022,
+                    41.23464567829489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 300,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194931868699676,
+                    41.23908087769738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 301,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19639913491385,
+                    41.234471760410145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 302,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_302"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194415273548803,
+                    41.236924412935025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 303,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_303"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196900986271476,
+                    41.235817685646396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 304,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19638928147143,
+                    41.23393140618352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 305,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194606328911455,
+                    41.23431022410732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 306,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196392565922423,
+                    41.23411152426492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 307,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19526682576109,
+                    41.23781633609671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 308,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_308"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196379428297302,
+                    41.2333910519041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 309,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19350178492896,
+                    41.23918578759235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 310,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_310"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195885814461985,
+                    41.232495418865106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 311,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_311"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196958496863456,
+                    41.2389697495985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 312,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196283117418975,
+                    41.23465311813901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 313,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195782929502663,
+                    41.2333972487205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 314,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194730550299468,
+                    41.23457916345408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 315,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193455908227655,
+                    41.23666413348855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 316,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_316"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193727294875146,
+                    41.238462841259164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 317,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193748600236876,
+                    41.23963360889624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 318,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19696178345892,
+                    41.239149867484336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 319,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195897304753924,
+                    41.23312583239798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 320,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_320"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194485387793623,
+                    41.23422140280373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 321,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194853132567886,
+                    41.2347580435617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 322,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_322"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195150799413145,
+                    41.2379976927037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 323,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19370762950304,
+                    41.23738213245105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 324,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195093377625643,
+                    41.2348456261371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 325,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195098299135758,
+                    41.23511580334179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 326,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.194897419531525,
+                    41.23718963817891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 327,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_327"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196508582189963,
+                    41.23393016642611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 328,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_328"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1974242288057,
+                    41.238334374437706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 329,
+                "Id_name": "Zeuli_Vite_cluster_0_idPlot_329"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.197476837197442,
+                    41.241216259735225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 2,
+                "Zona": "Zeuli_Vite",
+                "Id_plot": 330,
+                "Id_name": "Zeuli_Vite_cluster_2_idPlot_330"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.193575214042518,
+                    41.23666289670355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 331,
+                "Id_name": "Tormaresca_cluster_99_idPlot_331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02895754418775,
+                    40.53529617674413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 332,
+                "Id_name": "Tormaresca_cluster_99_idPlot_332"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.032759706481844,
+                    40.527990757342906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 333,
+                "Id_name": "Tormaresca_cluster_99_idPlot_333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030718633809826,
+                    40.52984575880254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 334,
+                "Id_name": "Tormaresca_cluster_99_idPlot_334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.032767824727934,
+                    40.5281706839879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 335,
+                "Id_name": "Tormaresca_cluster_99_idPlot_335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.03019373793137,
+                    40.53391268541511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 336,
+                "Id_name": "Tormaresca_cluster_99_idPlot_336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.030966865218065,
+                    40.52749742235748
+                ]
+            }
+        }
+    ]
+}

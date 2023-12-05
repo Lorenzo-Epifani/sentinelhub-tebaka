@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "name": "aree_di_saggio_TEBAKA_punti_28042022_v02_geom",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 99,
+                "Zona": "Tormaresca",
+                "Id_plot": 336,
+                "Id_name": "Tormaresca_cluster_99_idPlot_336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02951810461418,
+                    40.53878019344188
+                ]
+            }
+        }
+    ]
+}

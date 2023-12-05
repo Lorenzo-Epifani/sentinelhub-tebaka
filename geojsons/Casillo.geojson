@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "name": "aree_di_saggio_TEBAKA_punti_28042022_v02_geom",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Cluster": 0,
+                "Zona": "Casillo",
+                "Id_plot": 1,
+                "Id_name": "Casillo_cluster_0_idPlot_1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.117562814594123,
+                    41.03264440053801
+                ]
+            }
+        }
+    ]
+}
