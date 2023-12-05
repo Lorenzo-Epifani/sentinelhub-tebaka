@@ -36,6 +36,7 @@ aoi_bbox = BBox(bbox=aoi_coords_wgs84, crs=CRS.WGS84)
 aoi_size = bbox_to_dimensions(aoi_bbox, resolution=resolution)
 center_hash = U.hash_list(center)
 SAVE_ROOT=f'{SAVE_ROOT}/{center_hash}/'
+Path(SAVE_ROOT).mkdir(parents=True, exist_ok=True)
 
 shutil.copy('./request_meta.json', SAVE_ROOT)
 
