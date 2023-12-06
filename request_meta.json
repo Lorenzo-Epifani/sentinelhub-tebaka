@@ -6,5 +6,5 @@
     "res":10,
     "time_interval":[[2021,12,1], [2022,12,20]],
     "day_skip":5,
-    "bands":["rgb"]
+    "bands":["hyper"]
 }

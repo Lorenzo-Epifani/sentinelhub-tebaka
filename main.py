@@ -63,6 +63,6 @@ results = list(search_iterator)
 time_windows = U.get_time_windows(time_int_dtt, day_skip)
 for window in time_windows:
     for band in bands:
-        U.download_ortho(config, aoi_bbox, aoi_size, window, SAVE_ROOT=SAVE_ROOT )
+        U.download_array_bands(config, aoi_bbox, aoi_size, window, SAVE_ROOT=SAVE_ROOT, bands=band )
 ####################################################################################################
 

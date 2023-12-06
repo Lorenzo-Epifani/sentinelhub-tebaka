@@ -22,13 +22,13 @@ def get_catalog():
     catalog = SentinelHubCatalog(config=config)
     return catalog,config
 
-def download_ortho(config, aoi_bbox, aoi_size, time_interval, SAVE_ROOT,
+def download_array_bands(config, aoi_bbox, aoi_size, time_interval, SAVE_ROOT,
                    bands = "rgb"):
-    
+    script,mime_type,save_function=evs.api_middleware(bands)
     Path(join_pth(SAVE_ROOT,bands)).mkdir(parents=True, exist_ok=True)
-    request_orthos = SentinelHubRequest(
+    request_array_bands = SentinelHubRequest(
         data_folder=SAVE_ROOT,
-        evalscript=evs.get_bands(bands),
+        evalscript=script,
         input_data=[
             SentinelHubRequest.input_data(
                 data_collection=DataCollection.SENTINEL2_L2A.define_from(
@@ -38,24 +38,24 @@ def download_ortho(config, aoi_bbox, aoi_size, time_interval, SAVE_ROOT,
                 other_args={"dataFilter": {"mosaickingOrder": "leastCC"}} #minime nuvole
             )
         ],
-        responses=[SentinelHubRequest.output_response("default", MimeType.PNG)],
+        responses=[SentinelHubRequest.output_response("default",mime_type)],
         bbox=aoi_bbox,
         size=aoi_size,
         config=config,
     )
     print("DOWNLOADING IMAGE FOR THE INTERVAL: ")
     print(time_interval)
-    true_color_imgs = request_orthos.get_data(save_data=False)
-    image = true_color_imgs[0]
-    image = skie.adjust_gamma(image,1.1,3)
-    pilim= Image.fromarray(image)
-    pilim.save(join_pth(SAVE_ROOT,bands,f'{time_interval[0]}_{time_interval[1]}.jp2'))
+    result_array_bands = request_array_bands.get_data(save_data=False)[0]
+    save_function(result_array_bands,SAVE_ROOT,time_interval)
+
+
+
     #SHOW WITH CORRECTION
     
     #plt.imshow(image)
     #plt.savefig('./myfilename.png')
     #plt.show()
-    return request_orthos
+    return request_array_bands
 
 
 def get_time_windows(time_interval,day_skip):
